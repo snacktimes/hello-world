@@ -1,0 +1,3 @@
+-- testing
+select @@servername
+go
